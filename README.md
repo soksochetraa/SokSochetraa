@@ -1,10 +1,3 @@
-## Personal Information
-**Name:** Sochetra Sok 
-**Email:** sochetrasok@hotmail.com  
-**Phone:** +855966482541  
-**LinkedIn:** [linkedin.com/in/soksochetraa](https://www.linkedin.com/in/soksochetraa/)  
-**GitHub:** [github.com/soksochetraa](https://github.com/soksochetraa)  
-**Location:** Phnom Penh, Cambodia  
 
 ---
 
