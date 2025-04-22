@@ -1,5 +1,3 @@
-# Curriculum Vitae
-
 ## Personal Information
 **Name:** Sochetra Sok 
 **Email:** sochetrasok@hotmail.com  
