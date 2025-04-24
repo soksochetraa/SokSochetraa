@@ -9,7 +9,7 @@ _Royal University Of Phnom Penh, Phnom Penh, Cambodia_
 ---
 
 ## Skills
-- **Programming Languages:** Java, Python, JavaScript  
+- **Programming Languages:** Java
 - **Web Development:** React, HTML, CSS, Tailwind  
 - **Mobile Development:** Android (Java)
 - **Database:** MySQL, MongoDB, RoomDB  
@@ -30,10 +30,6 @@ _Royal University Of Phnom Penh, Phnom Penh, Cambodia_
 ### Expense Tracker App (Android)
 - Built a personal expense tracking app with category management
 - Used RecyclerView, RoomDB, LiveData, and MVVM architecture
-
-### Retina Image U-Net (Deep Learning)
-- Implemented U-Net for retina image reconstruction using PyTorch
-- Trained model on grayscale slices and visualized performance with MSE loss
 
 ---
 
